@@ -3,7 +3,11 @@
 {% block content %}
 <header class="title">
     azaleas@garden ~/ &lambda; {{ section.extra.cmd }}
-    <br/>
+    {% for page in section.pages %}
+        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+        <br />
+    {% endfor %}
+    <br />
 </header>
 {{ section.content | safe }}
 {% endblock content %}
