@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://azaleacolburn.github.io"
+base_url = "https://127.0.0.1:1111"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -22,7 +22,7 @@ highlight_code = false
 
 ## Anemone Variables
 author = "Azalea Colburn"
-favicon = "favicon.ico"
+favicon = "ranni-favicon.ico"
 list_pages = false
 twitter_card = false
 enable_search = true
