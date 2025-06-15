@@ -36,4 +36,4 @@ I'm planning to write a blog, some some topics on my mind:
 ## Web Presence
 
 - code on [github](https://github.com/azaleacolburn)
-- unprofessional rambling [transfem.social](https://transfem.social)
+- unprofessional ramblings on [bsky](https://bsky.app/profiles/azaleacolburn@bsky.social) and [transfem.social](https://transfem.social/@azalea)
