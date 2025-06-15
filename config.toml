@@ -1,0 +1,35 @@
+# The URL the site will be built for
+base_url = "https://azaleacolburn.dev"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+theme = "anemone"
+
+taxonomies = [
+    {name = "tags", feed = true, paginate_by = 10},
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+## Anemone Variables
+author = "Azalea Colburn"
+favicon = "favicon.ico"
+list_pages = false
+twitter_card = false
+enable_search = true
+
+### Navigation
+header_nav = [
+  { url = "/", name_en = "home | ", name_fr = "/accueil/" },
+  { url = "/blog", name_en = "blog | ", name_fr = "/blog/" },
+  { url = "/tools", name_en = "tools", name_fr = "/things/" }
+]
