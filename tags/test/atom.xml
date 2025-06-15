@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title></title>
+    <link href="https://azaleacolburn.github.io/atom.xml" rel="self"/>
+    <link href="https:&#x2F;&#x2F;azaleacolburn.github.io"/>
+    <updated>2025-06-15T04:41:38+0000</updated>
+    <id>https:&#x2F;&#x2F;azaleacolburn.github.io</id>
+
+    
+    
+    
+    
+        
+    
+    
+    
+        
+        
+            
+            <entry>
+                <title>Hello World!</title>
+                <link href="https:&#x2F;&#x2F;azaleacolburn.github.io&#x2F;blog&#x2F;hello-world&#x2F;"/>
+                <updated>2025-06-14T00:00:00+0000</updated>
+                <id>https:&#x2F;&#x2F;azaleacolburn.github.io&#x2F;blog&#x2F;hello-world&#x2F;</id>
+                <content type="html">&amp;lt;p&amp;gt;Hello World! This is my first blog post, it&amp;#x27;s just a placeholder&amp;#x2F;test for now, but it&amp;#x27;s a seed for more to grow from.&amp;lt;&amp;#x2F;p&amp;gt;
+</content>
+            </entry>
+            
+        
+    
+</feed>
