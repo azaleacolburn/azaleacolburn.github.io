@@ -21,7 +21,7 @@ Beyond my laptop screen, I enjoy biking, urban environments, and tea.
 
 ## Blog
 
-I'm planng to write a blog, some some topics on my mind:
+I'm planning to write a blog, some some topics on my mind:
 
 - cafes and biking trails around Portland
 - interesting programming things
