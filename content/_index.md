@@ -30,10 +30,10 @@ I'm planning to write a blog, some some topics on my mind:
   - tools/technologies which I either care about or find interesting
 - English language writing reform and/or conlang development
 - urban light rail
-- Hyperpop album Review
+- Hyperpop album review
 - poetry
 
 ## Web Presence
 
 - code on [github](https://github.com/azaleacolburn)
-- unprofessional ramblings on [bsky](https://bsky.app/profiles/azaleacolburn@bsky.social) and [transfem.social](https://transfem.social/@azalea)
+- unprofessional ramblings on [bluesky](https://bsky.app/profiles/azaleacolburn.bsky.social) and [transfem.social](https://transfem.social/@azalea)
