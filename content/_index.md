@@ -36,4 +36,9 @@ I'm planning to write a blog, some some topics on my mind:
 ## Web Presence
 
 - code on [github](https://github.com/azaleacolburn)
-- unprofessional ramblings on [bluesky](https://bsky.app/profiles/azaleacolburn.bsky.social) and [transfem.social](https://transfem.social/@azalea)
+- unprofessional ramblings on [bluesky](https://bsky.app/profile/azaleacolburn.bsky.social) and [transfem.social](https://transfem.social/@azalea)
+
+## Some Friends
+
+<a href="https://moth.moe/"><img src="zoefiri.gif" alt="zoefiri"></a>
+<a href="https://libdb.so/"><img src="d14.gif" alt="d14"></a>
