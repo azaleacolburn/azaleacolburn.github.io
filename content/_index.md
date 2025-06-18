@@ -10,7 +10,7 @@ Welcome to my HyperText page on the World Wide Web.
 I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> software engineer at [Autodesk](https://autodesk.com) based in Portland Oregon.
 I'm also a vegetarian NixOs user.
 
-For work, I mostly doing work on code simulation libraries, but I'm particularly interested in compilers and languages, both computer and human. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
+For work, I mostly do work on code simulation libraries, but outside of that I'm interested in compilers and languages, both computer and human. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
 
 Some of my favorite media:
 
@@ -40,5 +40,7 @@ I'm planning to write a blog, some some topics on my mind:
 
 ## Some Friends
 
-<a href="https://moth.moe/"><img src="zoefiri.gif" alt="zoefiri"></a>
-<a href="https://libdb.so/"><img src="d14.gif" alt="d14"></a>
+<div style="display: flex; flex-direction: row;">
+    <a href="https://moth.moe/"><img src="zoefiri.gif" alt="zoefiri"></a>
+    <a href="https://libdb.so/"><img src="d14.gif" alt="d14"></a>
+</div>
