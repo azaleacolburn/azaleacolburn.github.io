@@ -43,4 +43,5 @@ I'm planning to write a blog, some topics on my mind:
 <div style="display: flex; flex-direction: row;">
     <a href="https://moth.moe/"><img src="zoefiri.gif" alt="zoefiri"></a>
     <a href="https://libdb.so/"><img src="d14.gif" alt="d14"></a>
+    <a href="https://giannirosato.com/"><img src="gianni.webp" alt="gianni"></a>
 </div>
