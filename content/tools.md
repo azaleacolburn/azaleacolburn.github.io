@@ -16,7 +16,7 @@ title = "Tools I Use"
 
 ## Hardware
 
-- Alurya - Linux Workstation
+- Alurya - [Linux Workstation](https://youtu.be/bq9O99TgFv4)
 - Gilarabrywn - Apple M1 running [Asahi Linux](https://asahilinux.org)
 - Suri - iPhone 12 Mini (ew)
 - Brin - Modified [Chocofi](https://github.com/pashutk/chocofi) Keyboard
