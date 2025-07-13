@@ -7,7 +7,7 @@ title = "Tools I Use"
 - OS: [NixOS](https://nixos.org)
 - Compositor: [Hyprland](https://hyprland.org)
 - Terminal: [Alacritty](https://alacritty.org)
-- Text Editor: [Neovim](https://neovim.io) configured with [(NixVim)](https://github.com/nix-community/nixvim)
+- Text Editor: [Neovim](https://neovim.io) configured with [NixVim](https://github.com/nix-community/nixvim)
 - Browser: [Librewolf](https://librewolf.net)
 - Shell: [Nushell](https://nushell.sh)
 - Prompt: [Starship](https://starship.rs)
