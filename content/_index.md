@@ -16,6 +16,7 @@ Some of my favorite media:
 
 - Doctor Who, a long-running British Sci-Fi show about the titular Doctor Who (no, it's not "The Doctor"; real fans get it)
 - [Modem Prometheus](https://modemprometheus.com), an urban fantasy podcast by [namtao](https://namtao.com)
+- [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), an experimental Hyperpop and generally electronic musician, she's also trans and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
 
 Beyond my laptop screen, I enjoy biking, urban environments, and tea.
 
