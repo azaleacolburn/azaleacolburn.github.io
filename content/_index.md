@@ -30,7 +30,7 @@ I'm planning to write a blog, some topics on my mind:
   - suggestions for the Rust programming language
   - tools/technologies which I either care about or find interesting
 - English language writing reform and/or conlang development
-- urban light rail
+- urban light rail, particularly in Portland
 - Hyperpop album review
 - poetry
 
