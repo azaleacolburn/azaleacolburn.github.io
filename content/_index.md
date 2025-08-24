@@ -16,7 +16,7 @@ Some of my favorite media:
 
 - Doctor Who, a long-running British Sci-Fi show about the titular Doctor Who (no, it's not "The Doctor"; real fans get it)
 - [Modem Prometheus](https://modemprometheus.com), an urban fantasy podcast by [namtao](https://namtao.com)
-- [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), an experimental Hyperpop and generally electronic musician, she's also trans and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
+- [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), an Hyperpop and experimental electronic musician, she's also a trans furry and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
 
 Beyond my laptop screen, I enjoy biking, urban environments, and tea.
 
@@ -28,7 +28,7 @@ I'm planning to write a blog, some topics on my mind:
 - interesting programming things
   - project explainations and ideas
   - suggestions for the Rust programming language
-  - tools/technologies which I either care about or find interesting
+  - tools and technologies I either care about or find interesting
 - English language writing reform and/or conlang development
 - urban light rail, particularly in Portland
 - Hyperpop album review
@@ -47,3 +47,6 @@ I'm planning to write a blog, some topics on my mind:
     {{ badge(url="https://giannirosato.com/", src="gianni.webp", alt="gianni") }}
     {{ badge(url="https://awwpotato.xyz", src="https://awwpotato.xyz/88x31.png", alt="awwpotato")}}
 </div>
+
+## Add My Badge To Your Website!
+{{ badge(url="/", src="azalea-88x31.png", alt="azalea")}}
