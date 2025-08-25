@@ -39,14 +39,13 @@ I'm planning to write a blog, some topics on my mind:
 - code on [github](https://github.com/azaleacolburn)
 - unprofessional ramblings on [bluesky](https://bsky.app/profile/azaleacolburn.bsky.social) and [transfem.social](https://transfem.social/@azalea)
 
-## Some Friends
+## Some Friends (and Myself)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
     {{ badge(url="https://moth.moe/", src="zoefiri.gif", alt="zoefiri") }}
     {{ badge(url="https://libdb.so/", src="d14.gif", alt="d14") }}
     {{ badge(url="https://giannirosato.com/", src="gianni.webp", alt="gianni") }}
     {{ badge(url="https://awwpotato.xyz", src="https://awwpotato.xyz/88x31.png", alt="awwpotato")}}
+    {{ badge(url="/", src="azalea-88x31.png", alt="azalea")}}
 </div>
 
-## Add My Badge To Your Website!
-{{ badge(url="/", src="azalea-88x31.png", alt="azalea")}}
