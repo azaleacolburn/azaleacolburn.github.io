@@ -37,7 +37,7 @@ I'm planning to write a blog, some topics on my mind:
 ## Web Presence
 
 - code on [github](https://github.com/azaleacolburn)
-- unprofessional ramblings on [bluesky](https://bsky.app/profile/azaleacolburn.bsky.social) and [transfem.social](https://transfem.social/@azalea)
+- unprofessional ramblings on [bluesky](https://bsky.app/profile/azaleacolburn.dev) and [transfem.social](https://transfem.social/@azalea)
 
 ## Some Friends (and Myself)
 
