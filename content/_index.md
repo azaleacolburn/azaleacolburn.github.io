@@ -10,13 +10,13 @@ Welcome to my HyperText page on the World Wide Web.
 I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> software engineer at [Autodesk](https://autodesk.com) based in Portland Oregon.
 I'm also a vegetarian NixOS user.
 
-For work, I mostly do work on code simulation libraries, but outside of that I'm interested in compilers and languages, both computer and human. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
+For work, I mostly do work on code simulation libraries, but outside of that I'm interested in compilers and languages, both formal and natural. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
 
 Some of my favorite media:
 
 - Doctor Who, a long-running British Sci-Fi show about the titular Doctor Who (no, it's not "The Doctor"; real fans get it)
 - [Modem Prometheus](https://modemprometheus.com), an urban fantasy podcast by [namtao](https://namtao.com)
-- [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), an Hyperpop and experimental electronic musician, she's also a trans furry and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
+- [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), an Hyperpop and experimental electronic musician, she's also trans and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
 
 Beyond my laptop screen, I enjoy biking, urban environments, and tea.
 
@@ -29,10 +29,11 @@ I'm planning to write a blog, some topics on my mind:
   - project explainations and ideas
   - suggestions for the Rust programming language
   - tools and technologies I either care about or find interesting
-- English language writing reform and/or conlang development
-- urban light rail, particularly in Portland
+- English language writing reform and/or [conlang](https://en.wikipedia.org/wiki/Constructed_language) development
+- urban light rail systems, particularly in Portland
 - Hyperpop album review
 - poetry
+- [a few philosophical theories some friends and I have](https://github.com/azaleacolburn/philosophy)
 
 ## Web Presence
 
