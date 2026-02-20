@@ -42,8 +42,8 @@ who see one another by curse-marks on foreheads, hands, and necks.
 who yearn for her unclean kosher body, born broken, piercing, demonettes, and can't bear it.  
 
 who find themselves as failed men, deluded and reshaped.  
-who lean closer, ding not to weaken at the sight of her typing hands  
-or crumble at the sight of its eyespots and tattooed freckles.  
+who lean closer, trying not to weaken at the sight of her typing hands  
+or be crumbled by its eyespots and tattooed freckles.  
 who whisper ballads, two-part soliloquies of ecstasy through hours lived and slept.  
 
 who walk onto grass, away from the light  
