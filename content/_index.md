@@ -7,7 +7,7 @@ Welcome to my HyperText page on the World Wide Web.
 
 ## About Me
 
-I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> software engineer at [Autodesk](https://autodesk.com) based in Portland Oregon.
+I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> student and software engineer at [Autodesk](https://autodesk.com) based in Portland Oregon.
 I'm also a vegetarian NixOS user.
 
 For work, I mostly do work on code simulation libraries, but outside of that I'm interested in compilers and languages, both formal and natural. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
