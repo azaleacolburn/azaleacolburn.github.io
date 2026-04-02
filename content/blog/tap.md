@@ -1,6 +1,6 @@
 +++
 title = "tap, an imprint and an homage"
-date = 2026-12-17
+date = 2025-12-17
 draft = false
 [taxonomies]
 tags = ["poetry"]
