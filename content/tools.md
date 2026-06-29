@@ -9,7 +9,9 @@ title = "Tools"
 - OS: [NixOS](https://nixos.org)
 - Compositor: [Hyprland](https://hyprland.org)
 - Terminal: [Alacritty](https://alacritty.org)
-- Text Editor: [Neovim](https://neovim.io) configured with [NixVim](https://github.com/nix-community/nixvim)
+- Text Editor
+  - C & Markdown: [Orinfar](https://crates.io/crates/orinfar)
+  - Other: [Neovim](https://neovim.io) configured with [NixVim](https://github.com/nix-community/nixvim)
 - Browser: [Librewolf](https://librewolf.net)
 - Shell: [Fish](https://fishshell.com)
 - Prompt: [Starship](https://starship.rs)
@@ -27,9 +29,11 @@ title = "Tools"
 ## I want (to make, to exist, or to have)
 
 ### Hardware
+
 - I would like to get into homelabing at some point, mostly to host my own [git](https://git-scm.com/) upstream
 
 ### Software
+
 - Obelisk - Converts branching C programs into branchless ones
 
 ## I've Made
