@@ -7,7 +7,7 @@ Welcome to my HyperText page on the World Wide Web.
 
 ## About Me
 
-I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> student and software engineer at [Autodesk](https://autodesk.com) based in Portland Oregon.
+I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> student and software engineer at [Autodesk](https://autodesk.com) based in [Portland, Oregon](https://en.wikipedia.org/wiki/Portland,_Oregon).
 I'm also a [vegetarian NixOS user](https://github.com/hawkw/flake/commit/3931747df454d69efe07dfa65880363a33f7b239).
 
 For work, I mostly do work on code simulation libraries, but outside of that I'm interested in compilers and languages, both formal and natural. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
@@ -27,11 +27,11 @@ I'm planning to write a blog, some topics on my mind:
 - cafes and biking trails around Portland
 - interesting programming things
   - project explainations and ideas
-  - suggestions for the Rust programming language
-  - tools and technologies I either care about or find interesting
+  - suggestions for certain programming languages (namely [Rust](https://rust-lang.org/) and [OCaml](https://ocaml.org/))
+  - [tools](/tools) and technologies I either care about or find interesting
 - English language writing reform and/or [conlang](https://en.wikipedia.org/wiki/Constructed_language) development
 - urban light rail systems, particularly in Portland
-- Hyperpop album review
+- [Hyperpop](https://www.thegazelle.org/issue/191/understanding-hyperpop-generation-internet) album review
 - poetry
 - [a few philosophical theories some friends and I have](https://github.com/azaleacolburn/philosophy)
 
