@@ -1,4 +1,4 @@
-+++
+++
 title = "Tools"
 +++
 
@@ -12,11 +12,15 @@ title = "Tools"
 - Text Editor
   - C & Markdown: [Orinfar](https://crates.io/crates/orinfar)
   - Other: [Neovim](https://neovim.io) configured with [NixVim](https://github.com/nix-community/nixvim)
-- Browser: [Librewolf](https://librewolf.net)
+- Compilers
+  - C: [gcc](https://gcc.gnu.org)
+  - Rust: [rustc](https://github.com/rust-lang/rust)
+  - OCaml: [0xCAML](https://oxcaml.org)
+- Browser: [Zen](https://zen-browser.app)
 - Shell: [Fish](https://fishshell.com)
 - Prompt: [Starship](https://starship.rs)
 - Statusbar: [Waybar](https://github.com/Alexays/Waybar)
-- Colorscheme: [Nord](https://nordtheme.com)
+- Colorscheme: [Everforest Dark Medium](https://github.com/sainnhe/everforest)
 
 ### Hardware
 
