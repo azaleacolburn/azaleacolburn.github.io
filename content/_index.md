@@ -3,28 +3,28 @@
 
 # Azalea Colburn
 
-Welcome to my HyperText page on the World Wide Web.
+welcome to my HyperText page on the World Wide Web.
 
 ## About Me
 
-I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> student and software engineer at [Autodesk](https://autodesk.com) based in [Portland, Oregon](https://en.wikipedia.org/wiki/Portland,_Oregon).
+I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> student studying Computer Science and Linguistics at [The University of Chicago](https://www.uchicago.edu/). I was born and raised in [Portland, Oregon](https://en.wikipedia.org/wiki/Portland,_Oregon).
 I'm also a [vegetarian NixOS user](https://github.com/hawkw/flake/commit/3931747df454d69efe07dfa65880363a33f7b239).
 
-For work, I mostly do work on code simulation libraries, but outside of that I'm interested in compilers and languages, both formal and natural. As a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org).
+I'm primarily interested in compilers and programming languages, both formal and natural. however, I'm also fascinated by systems programming generally. as a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org) (although C is a close second).
 
-Some of my favorite media:
+some of my favorite media:
 
 - Doctor Who, a long-running British Sci-Fi show about the titular Doctor Who (no, it's not "The Doctor"; real fans get it)
 - [Modem Prometheus](https://modemprometheus.com), an urban fantasy podcast by [namtao](https://namtao.com)
 - [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), an Hyperpop and experimental electronic musician, she's also trans and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
 
-Beyond my laptop screen, I enjoy biking, urban environments, and tea.
+beyond my laptop screen, I enjoy poetry, biking, urban environments, typewriters, and tea.
 
 ## Blog
 
 I'm planning to write a blog, some topics on my mind:
 
-- cafes and biking trails around Portland
+- cafes and biking trails around Portland or Chicago
 - interesting programming things
   - project explainations and ideas
   - suggestions for certain programming languages (namely [Rust](https://rust-lang.org/) and [OCaml](https://ocaml.org/))
@@ -32,7 +32,7 @@ I'm planning to write a blog, some topics on my mind:
 - English language writing reform and/or [conlang](https://en.wikipedia.org/wiki/Constructed_language) development
 - urban light rail systems, particularly in Portland
 - [Hyperpop](https://www.thegazelle.org/issue/191/understanding-hyperpop-generation-internet) album review
-- poetry
+- poetry (currently the only meaningful content present)
 - [a few philosophical theories some friends and I have](https://github.com/azaleacolburn/philosophy)
 
 ## Web Presence
