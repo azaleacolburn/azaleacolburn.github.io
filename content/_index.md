@@ -43,10 +43,10 @@ I'm planning to write a blog, some topics on my mind:
 ## Some Friends (and Myself)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-    {{ badge(url="https://moth.moe/", src="zoefiri.gif", alt="zoefiri") }}
-    {{ badge(url="https://libdb.so/", src="d14.gif", alt="d14") }}
-    {{ badge(url="https://giannirosato.com/", src="gianni.webp", alt="gianni") }}
-    {{ badge(url="https://da157.id", src="https://da157.id/88x31.png", alt="awwpotato")}}
-    {{ badge(url="https://ezri.pet" src="https://ezri.pet/assets/img/badges/ezri.png", alt="ezri")}}
-    {{ badge(url="/", src="azalea-88x31.png", alt="azalea")}}
+    {{<badge url="https://moth.moe/" src="zoefiri.gif" alt="zoefiri" />}}
+    {{<badge url="https://libdb.so/" src="d14.gif" alt="d14" />}}
+    {{<badge url="https://giannirosato.com/" src="gianni.webp" alt="gianni" />}}
+    {{<badge url="https://da157.id" src="https://da157.id/88x31.png" alt="0xda157" />}}
+    {{<badge url="https://ezri.pet" src="https://ezri.pet/assets/img/badges/ezri.png" alt="ezri" />}}
+    {{<badge url="/" src="azalea-88x31.png" alt="azalea" />}}
 </div>
