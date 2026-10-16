@@ -10,7 +10,6 @@ display_published = true
 author = "Azalea Colburn"
 +++
 
-
 i have seen the best minds of my generation cowering in coffeehouses,  
     maddened by cold brew, frantically breathing, while they still can.  
 ecstatic typists lay around us, broken, endangered, barely aware,  
