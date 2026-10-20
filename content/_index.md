@@ -8,7 +8,7 @@ welcome to my HyperText page on the World Wide Web.
 ## About Me
 
 I'm a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span> student studying Computer Science and Linguistics at [The University of Chicago](https://www.uchicago.edu/). I was born and raised in [Portland, Oregon](https://en.wikipedia.org/wiki/Portland,_Oregon).
-I'm also a [vegetarian NixOS user](https://github.com/hawkw/flake/commit/3931747df454d69efe07dfa65880363a33f7b239).
+I'm also a [vegan NixOS user](https://github.com/hawkw/flake/commit/3931747df454d69efe07dfa65880363a33f7b239).
 
 I'm primarily interested in compilers and programming languages, both formal and natural. however, I'm also fascinated by systems programming generally. as a <span style='color: #5BCEFA;'>tr</span><span style='color: #F5A9B8;'>a</span><span style='color: #FFFFFF;'>ns</span><span style='color: #F5A9B8;'>f</span><span style='color: #5BCEFA;'>em</span>, my language of choice is of course [Rust](https://rust-lang.org) (although C is a close second).
 
