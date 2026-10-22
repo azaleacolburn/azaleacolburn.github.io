@@ -1,7 +1,7 @@
 +++
 title = "acorn"
-date = 2026-10-19
-draft = true
+date = 2026-10-21
+draft = false
 [taxonomies]
 tags = ["poetry"]
 [extra]
@@ -10,9 +10,9 @@ display_published = false
 author = "Azalea Colburn"
 +++
 
-an acorn
+watch
+the acorn drop,
 
-dropped,
 it cracks, splintered,
 against the august pavement
 burnt black by the harsh
