@@ -1,5 +1,5 @@
 +++
-title = "a minor chord of surrender"
+title = "a small surrender"
 date = 2026-10-21
 draft = false
 [taxonomies]
