@@ -18,7 +18,7 @@ some of my favorite media:
 - [Modem Prometheus](https://modemprometheus.com), an urban fantasy podcast by [namtao](https://namtao.com)
 - [Patricia Taxxon](https://patriciataxxon.bandcamp.com/), a Hyperpop and experimental electronic musician, she's also trans and [makes great video essays](https://www.youtube.com/@Patricia_Taxxon)
 
-beyond my laptop screen, I enjoy poetry, biking, urban environments, typewriters, and tea.
+beyond my laptop screen, I enjoy poetry, urban environments, typewriters, and tea.
 
 ## Blog
 
