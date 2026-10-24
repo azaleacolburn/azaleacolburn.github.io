@@ -11,14 +11,14 @@ author = "Azalea Colburn"
 +++
 
 watch  
-this acorn drop,  
+the acorn drop,  
 
-it cracks, splintered,  
+it cracks, splintered  
 against the august pavement  
 burnt black by the harsh  
 southern sun, summers since  
-past until cracked and  
-hardened oil paved the path  
+past until spalled and,  
+hardened oil paved the land  
 where older acorns  
 fell and grew.  
 
@@ -28,6 +28,6 @@ as an engine roars below
 and the acorn  
 smashs to a pulp,  
 laid bare,  
-exposed to the crow  
+exposed to the crow,  
 which its ancestors  
 long ago conquered.
