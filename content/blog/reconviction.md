@@ -11,6 +11,6 @@ author = "Azalea Colburn"
 +++
 
 a heavy blanket never slept  
-unto the tip of night I wept  
+until the tip of night I wept  
 i climbed upon the blackthorn tree  
 _and cut a sweeter apple for thee_  
