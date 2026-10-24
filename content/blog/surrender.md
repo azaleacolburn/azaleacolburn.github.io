@@ -16,9 +16,10 @@ the acorn drop,
 it cracks, splintered  
 against the august pavement  
 burnt black by the harsh  
-southern sun, summers since  
-past until spalled and,  
-hardened oil paved the land  
+southern sun, summers past  
+since spalled and  
+hardened oil spilled  
+across the land  
 where older acorns  
 fell and grew.  
 
@@ -30,4 +31,4 @@ smashs to a pulp,
 laid bare,  
 exposed to the crow,  
 which its ancestors  
-long ago conquered.
+long ago conquered

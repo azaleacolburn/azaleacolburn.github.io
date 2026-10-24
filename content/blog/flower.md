@@ -17,7 +17,7 @@ blooms through
 
 the forest floor  
 of tight knit grass  
-'long a narrow path,  
+by a narrow path,  
 
 pushing dew drops down,  
 back to the ground,  
