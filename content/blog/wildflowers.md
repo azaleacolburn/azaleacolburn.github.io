@@ -1,9 +1,9 @@
 +++
-title = "tap, an imprint and an homage"
+title = "wildflowers"
 date = 2025-12-17
 draft = false
 [taxonomies]
-tags = ["poetry"]
+tags = ["poetry", "neobeatnik"]
 [extra]
 toc = true
 display_published = true

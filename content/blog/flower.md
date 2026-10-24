@@ -3,7 +3,7 @@ title = "flower of the word"
 date = 2026-10-24
 draft = false
 [taxonomies]
-tags = ["poetry"]
+tags = ["poetry", "imagist"]
 [extra]
 toc = true
 display_published = true

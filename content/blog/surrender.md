@@ -3,7 +3,7 @@ title = "a small surrender"
 date = 2026-10-21
 draft = false
 [taxonomies]
-tags = ["poetry"]
+tags = ["poetry", "imagist"]
 [extra]
 toc = true
 display_published = false
