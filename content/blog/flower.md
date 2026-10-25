@@ -12,12 +12,12 @@ author = "Azalea Colburn"
 
 the fragile flower  
 &mdash;three days dead,  
-ripped to shreds&mdash;  
+hung and bled&mdash;  
 blooms through  
 
 the forest floor  
 of tight knit grass  
-by a narrow path,  
+&mdash;the narrow path&mdash;  
 
 pushing dew drops down,  
 back to the ground,  
@@ -25,9 +25,11 @@ to the soil,
 
 as pollen sprays  
 and spreads on winds  
-out to the world&mdash;the word:  
+out to the world  
+&mdash;as the word.  
 
 the flower is born once more  
 in the forest grey and brown  
-&mdash;which killed itself for color&mdash;  
+&mdash;which tore itself apart  
+in search of color&mdash;  
 next spring  
