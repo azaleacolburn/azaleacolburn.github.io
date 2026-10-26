@@ -12,7 +12,7 @@ author = "Azalea Colburn"
 
 the fragile flower  
 &mdash;three days dead,  
-hung and bled&mdash;  
+wilted red&mdash;  
 blooms through  
 
 the forest floor  
@@ -26,7 +26,7 @@ to the soil,
 as pollen sprays  
 and spreads on winds  
 out to the world  
-&mdash;as the word.  
+&mdash;the word.  
 
 the flower is born once more  
 in the forest grey and brown  
