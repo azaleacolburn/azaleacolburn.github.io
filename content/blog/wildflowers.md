@@ -45,7 +45,7 @@ who yearn for her unclean, kosher body&mdash;born broken, piercing, demonettes&m
 
 who find themselves as failed men, deluded and reshaped.  
 who lean closer, weakening at the sight of her thin, nimble hands  
-&nbsp;&nbsp;&nbsp;&nbsp;grazing their tatooed freckles, crumbled by its emerging eyespots.  
+&nbsp;&nbsp;&nbsp;&nbsp;grazing their tattooed freckles, crumbled by its emerging eyespots.  
 who whisper ballads, two-part soliloquies of ecstasy through hours lived and slept  
 
 who walk onto grass, away from the light  
