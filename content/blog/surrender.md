@@ -11,7 +11,7 @@ author = "Azalea Colburn"
 +++
 
 watch&mdash;  
-the acorn drop,  
+the acorn drops,  
 
 it cracks, splintered  
 against the august pavement  
@@ -20,14 +20,14 @@ southern sun, summers past
 since spalled and  
 hardened oil spilled  
 across the land  
-where older acorns  
+where ancient acorns  
 fell and grew.  
 
 but the crow stares down,  
 its dark eyes indifferent  
-as an engine roars below  
+as engines roar below  
 and the acorn  
-smashs to a pulp,  
+is smashed to a pulp,  
 laid bare,  
 exposed to the crow,  
 which its ancestors  
