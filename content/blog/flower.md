@@ -19,7 +19,7 @@ the forest floor
 of tight knit grass  
 &mdash;the narrow path&mdash;  
 
-pushing dew drops down,  
+push dew drops down,  
 back to the ground,  
 to the soil,  
 
