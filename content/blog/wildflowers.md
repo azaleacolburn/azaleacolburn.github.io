@@ -36,22 +36,22 @@ who cling to shreds of liberalism, once discarded for red-black wet dreams
 who hide in the museum&mdash;words! words! at 22:50 AM&mdash;among the art called  
 &nbsp;&nbsp;&nbsp;&nbsp;dolls to cynically hide the pain&mdash;yet in its promises and doubts art _will_ suffice!  
 
-whose paranoid fits leave them backwards on chairs, facing broken cameras and torn up curtains.  
+whose paranoid fits leave them backwards on chairs, facing broken cameras and torn up curtains,  
 &nbsp;&nbsp;&nbsp;&nbsp;which once they called their only home, now screaming hysterically naked  
 &nbsp;&nbsp;&nbsp;&nbsp;for no one or the world to see  
-who worship under the blinding, burning light, smoldering in chiaroscuro.  
-&nbsp;&nbsp;&nbsp;&nbsp;godspurned screams to up to the sky  
-&nbsp;&nbsp;&nbsp;&nbsp;wander one more forty years before He'll hear you  
 who chew on bitter chalk, dry up, cease skinning thoughts, voice ripping fantasies.  
 who push it down their throats  
-    relish in the salt, cry at diltation and collapse  
+&nbsp;&nbsp;&nbsp;&nbsp;relish in the salt, cry at diltation and collapse.  
+who worship under the blinding, burning light, smoldering in chiaroscuro.  
+&nbsp;&nbsp;&nbsp;&nbsp;godspurned screams to up to the sky  
+&nbsp;&nbsp;&nbsp;&nbsp;wander one more forty years before He'll hear you!  
 
 who crave that queer, blessed unrest  
 &nbsp;&nbsp;&nbsp;&nbsp;that humming, buzzing air that keeps them marching  
 &nbsp;&nbsp;&nbsp;&nbsp;and makes them more alive than the others  
 
 who  
-&nbsp;&nbsp;&nbsp;&nbsp;agony and terror forced them through splintering wooden doors, into the cafe lights  
+&nbsp;&nbsp;&nbsp;&nbsp;agony and terror forced through splintering wooden doors, into the cafe lights  
 &nbsp;&nbsp;&nbsp;&nbsp;feel curse marks acrossed their necks&mdash;branded by doctors, lovers, and false gods  
 &nbsp;&nbsp;&nbsp;&nbsp;yearn for her unclean, kosher body&mdash;born broken, piercing, demonettes&mdash;and can't bear it!  
 
