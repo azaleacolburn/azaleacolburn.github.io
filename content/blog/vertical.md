@@ -24,8 +24,8 @@ hexagons, basalt
 from scorched,  
 assaulted earth  
 
-and all across them
-all top arrays  
+and all across them  
+all along arrays  
 of pipes and pumps  
 there lay lines on lay lines  
 
@@ -41,7 +41,7 @@ and i cannot see the sky
 nor fly  
 
 so i climb  
-ducts down
+ducts down  
 polls up ladders and  
 
 try not to fall, just  
